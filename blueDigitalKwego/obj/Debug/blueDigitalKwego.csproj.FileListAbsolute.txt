@@ -1,0 +1,8 @@
+C:\projects\blurdigital\blueDigitalKwego\blueDigitalKwego\blueDigitalKwego\bin\Debug\blueDigitalKwego.exe.config
+C:\projects\blurdigital\blueDigitalKwego\blueDigitalKwego\blueDigitalKwego\bin\Debug\blueDigitalKwego.exe
+C:\projects\blurdigital\blueDigitalKwego\blueDigitalKwego\blueDigitalKwego\bin\Debug\blueDigitalKwego.pdb
+C:\projects\blurdigital\blueDigitalKwego\blueDigitalKwego\blueDigitalKwego\obj\Debug\blueDigitalKwego.exe
+C:\projects\blurdigital\blueDigitalKwego\blueDigitalKwego\blueDigitalKwego\obj\Debug\blueDigitalKwego.pdb
+E:\melvin\Projects\blueDigital\blueDigitalKwego\blueDigitalKwego\blueDigitalKwego\bin\Debug\blueDigitalKwego.exe.config
+E:\melvin\Projects\blueDigital\blueDigitalKwego\blueDigitalKwego\blueDigitalKwego\obj\Debug\blueDigitalKwego.exe
+E:\melvin\Projects\blueDigital\blueDigitalKwego\blueDigitalKwego\blueDigitalKwego\obj\Debug\blueDigitalKwego.pdb

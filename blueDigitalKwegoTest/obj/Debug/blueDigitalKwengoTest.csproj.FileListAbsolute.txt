@@ -1,0 +1,8 @@
+C:\projects\blurdigital\blueDigitalKwego\blueDigitalKwego\blueDigitalKwegoTest\obj\Debug\blueDigitalKwengoTest.csprojResolveAssemblyReference.cache
+C:\projects\blurdigital\blueDigitalKwego\blueDigitalKwego\blueDigitalKwegoTest\bin\Debug\blueDigitalKwengoTest.dll
+C:\projects\blurdigital\blueDigitalKwego\blueDigitalKwego\blueDigitalKwegoTest\bin\Debug\blueDigitalKwengoTest.pdb
+C:\projects\blurdigital\blueDigitalKwego\blueDigitalKwego\blueDigitalKwegoTest\bin\Debug\blueDigitalKwego.exe
+C:\projects\blurdigital\blueDigitalKwego\blueDigitalKwego\blueDigitalKwegoTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\projects\blurdigital\blueDigitalKwego\blueDigitalKwego\blueDigitalKwegoTest\bin\Debug\blueDigitalKwego.pdb
+C:\projects\blurdigital\blueDigitalKwego\blueDigitalKwego\blueDigitalKwegoTest\obj\Debug\blueDigitalKwengoTest.dll
+C:\projects\blurdigital\blueDigitalKwego\blueDigitalKwego\blueDigitalKwegoTest\obj\Debug\blueDigitalKwengoTest.pdb
